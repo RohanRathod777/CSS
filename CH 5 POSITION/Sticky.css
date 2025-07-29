@@ -1,0 +1,32 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline;
+    
+}       
+#Box1{
+    position: static;
+    
+    /* DEFAULT POSOTION */
+
+}
+
+#Box2{
+    position: relative;
+    top: 20px;
+    left: 10px;
+    /* ELEMENT IS RELATIVE ITSELF */
+}
+#Box3{
+    position: sticky;
+    top: 0px;
+    left: 20px
+    /*POSITIONED BASED ON USER'S BASED SCROLL POSITION */
+}
+#Box4{
+    position: fixed;
+    top: 0px;
+    /* POSITION RELATIVE TO BROWSER (REMOVED FROM FLOW) */
+} 

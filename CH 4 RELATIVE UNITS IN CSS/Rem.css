@@ -1,0 +1,13 @@
+#Box1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 10px;
+    }
+    #Box2{
+        height: 50px;
+        width: 30%;
+        background-color: yellow;
+        font-size: 2em;
+        width: 5rem;
+    }
