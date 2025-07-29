@@ -1,0 +1,17 @@
+.Navbar {
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+
+}
+
+li {
+    list-style: none;
+    display: inline;
+}

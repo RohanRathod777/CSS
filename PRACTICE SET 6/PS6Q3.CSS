@@ -1,0 +1,15 @@
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    align-self: flex-start;
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    align-items: center;
+}
