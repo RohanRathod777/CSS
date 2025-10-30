@@ -1,14 +1,13 @@
+Perfect — here’s your **final polished `README.md`** for your GitHub repo
+→ with **live preview image sections added** ✨ and **the header/logo section removed** (for a cleaner, more professional look).
+
+Just copy this into your repository as `README.md`.
+
+---
 
 ````markdown
-<!-- HEADER -->
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="100" alt="CSS Logo"/>
-</p>
-
-<h1 align="center">🎨 CSS-By-Rohan</h1>
-<p align="center">
-  A complete, hands-on journey to mastering modern CSS through chapters, exercises, and a final project.
-</p>
+# 🎨 CSS-By-Rohan
+> A complete, hands-on journey to mastering modern CSS through chapters, exercises, and a final project.
 
 <p align="center">
   <a href="https://github.com/RohanRathod777/CSS/stargazers"><img src="https://img.shields.io/github/stars/RohanRathod777/CSS?style=for-the-badge" alt="stars"/></a>
@@ -25,14 +24,13 @@
 - [🚀 Features](#-features)
 - [🧠 Learning Path](#-learning-path)
 - [⚙️ How to Use](#️-how-to-use)
-- [📸 Preview](#-preview)
+- [🖼️ Live Preview](#-live-preview)
 - [📜 License](#-license)
 - [🙏 Acknowledgements](#-acknowledgements)
 
 ---
 
 ## 📘 About
-
 Welcome to **CSS-By-Rohan** — a thoughtfully curated repository to **learn, practice, and master CSS** in an organized way.  
 Each folder builds upon the previous one, covering everything from basic styling to animations and responsive layouts.
 
@@ -107,19 +105,35 @@ Finish the **practice sets** and complete the **project** to cement your CSS und
 
 ---
 
-## 📸 Preview
+## 🖼️ Live Preview
+
+Here are a few **sample screenshots and results** from the chapters and project 👇
+
+### 🎯 Basic Styling & Colors
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="80" alt="CSS logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="120" alt="CSS3 wordmark"/>
+  <img src="https://raw.githubusercontent.com/RohanRathod777/CSS/main/assets/preview/basic-style.png" width="600" alt="Basic CSS preview">
 </p>
+
+### 🧱 Flexbox Layout
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Practice%20Sets-8-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Project-1%20Final-green?style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/RohanRathod777/CSS/main/assets/preview/flexbox-layout.png" width="600" alt="Flexbox preview">
 </p>
 
-> 🖼️ *Coming soon:* screenshots of practice outputs and final project preview.
+### 📱 Responsive Design
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RohanRathod777/CSS/main/assets/preview/responsive-demo.png" width="600" alt="Responsive design preview">
+</p>
+
+### 🌈 Final Project
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RohanRathod777/CSS/main/assets/preview/final-project.png" width="600" alt="Final project preview">
+</p>
+
+> 🖼️ *Tip:* You can upload screenshots to `/assets/preview/` to make these images visible on GitHub.
 
 ---
 
@@ -146,12 +160,19 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-### ✅ Optional Add-Ons
+### ✅ Next Steps for You:
 
-I can also:
+1. Create a folder in your repo:
 
-* Add **live preview images** of your final project (if you upload screenshots).
-* Create a **banner/header image** for the README (a modern CSS-themed cover).
-* Add **GitHub Pages link** if you want to host the project demo online.
+   ```
+   assets/preview/
+   ```
+2. Add screenshots:
 
-Would you like me to make a **custom banner image** (with your name and “CSS By Rohan” aesthetic theme)?
+   * `basic-style.png`
+   * `flexbox-layout.png`
+   * `responsive-demo.png`
+   * `final-project.png`
+3. Push them to GitHub — and your README will show **live previews automatically** 🎉
+
+Would you like me to **design matching preview images** (clean CSS UI mockups to place in `/assets/preview/`)?
