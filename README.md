@@ -4,15 +4,6 @@
 # 🎨 CSS-By-Rohan
 > A complete, hands-on journey to mastering modern CSS through chapters, exercises, and a final project.
 
-<p align="center">
-  <a href="https://github.com/RohanRathod777/CSS/stargazers"><img src="https://img.shields.io/github/stars/RohanRathod777/CSS?style=for-the-badge" alt="stars"/></a>
-  <a href="https://github.com/RohanRathod777/CSS/network/members"><img src="https://img.shields.io/github/forks/RohanRathod777/CSS?style=for-the-badge" alt="forks"/></a>
-  <a href="https://github.com/RohanRathod777/CSS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/RohanRathod777/CSS?style=for-the-badge" alt="license"/></a>
-  <a href="https://github.com/RohanRathod777/CSS"><img src="https://img.shields.io/github/last-commit/RohanRathod777/CSS?style=for-the-badge" alt="last-commit"/></a>
-</p>
-
----
-
 ## 📑 Table of Contents
 - [📘 About](#-about)
 - [📂 Folder Structure](#-folder-structure)
