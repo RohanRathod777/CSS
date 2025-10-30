@@ -1,31 +1,43 @@
 ---
 
-````markdown
-# 🎨 CSS-By-Rohan
-> A complete, hands-on journey to mastering modern CSS through chapters, exercises, and a final project.
+```markdown
+# CSS-By-Rohan
+
+> Learn, practice, and master CSS through structured chapters, exercises, and a final project.
+
+<p align="center">
+  <a href="https://github.com/RohanRathod777/CSS/stargazers"><img src="https://img.shields.io/github/stars/RohanRathod777/CSS?style=for-the-badge&color=blue" alt="Stars"></a>
+  <a href="https://github.com/RohanRathod777/CSS/network/members"><img src="https://img.shields.io/github/forks/RohanRathod777/CSS?style=for-the-badge&color=green" alt="Forks"></a>
+  <a href="https://github.com/RohanRathod777/CSS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/RohanRathod777/CSS?style=for-the-badge&color=orange" alt="License"></a>
+  <a href="https://github.com/RohanRathod777/CSS/commits"><img src="https://img.shields.io/github/last-commit/RohanRathod777/CSS?style=for-the-badge&color=purple" alt="Last Commit"></a>
+</p>
+
+---
 
 ## 📑 Table of Contents
-- [📘 About](#-about)
-- [📂 Folder Structure](#-folder-structure)
-- [🚀 Features](#-features)
-- [🧠 Learning Path](#-learning-path)
-- [⚙️ How to Use](#️-how-to-use)
-- [📜 License](#-license)
-- [🙏 Acknowledgements](#-acknowledgements)
+
+1. [About](#about)  
+2. [Folder Structure](#folder-structure)  
+3. [Features](#features)  
+4. [Learning Path](#learning-path)  
+5. [How to Use](#how-to-use)  
+6. [License](#license)  
+7. [Acknowledgements](#acknowledgements)  
 
 ---
 
-## 📘 About
-Welcome to **CSS-By-Rohan** — a thoughtfully curated repository to **learn, practice, and master CSS** in an organized way.  
-Each folder builds upon the previous one, covering everything from basic styling to animations and responsive layouts.
+## About
 
-> 💬 “Style is not just what you apply — it’s how you *express* the web.”
+CSS-By-Rohan is a **complete CSS learning repository**. It is organized chapter-wise for progressive learning — from basic styles to advanced layouts, transitions, animations, and responsive design.
+
+> **Tip:** Each chapter comes with hands-on exercises and a final project to reinforce learning.
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
-```bash
+```
+
 CSS/
 │
 ├── CH 1 FIRST HTML/             # HTML foundations for styling practice
@@ -42,77 +54,76 @@ CSS/
 │
 ├── PRACTICE SET 3–8/            # Chapter-specific exercises
 └── PROJECT/                     # Final project using all concepts
+
 ````
 
 ---
 
-## 🚀 Features
+## Features
 
-✨ **Structured Learning Path** — Progress step-by-step from basics to advanced concepts.
-🧩 **Hands-On Exercises** — Practice sets that reinforce learning.
-📱 **Responsive Design** — Understand media queries and breakpoints.
-🎞️ **Animations & Effects** — Add interactivity with transitions & keyframes.
-💪 **Project-Based Learning** — Build a real CSS project by the end.
-
----
-
-## 🧠 Learning Path
-
-| Stage | Topic                        | Key Concepts                                      |
-| :---- | :--------------------------- | :------------------------------------------------ |
-| 🎯 1  | **CSS Basics**               | Selectors, Colors, Text Styling                   |
-| 🧱 2  | **Layouts**                  | Display, Position, Flexbox                        |
-| 📏 3  | **Responsive Design**        | Media Queries, Relative Units                     |
-| 🌀 4  | **Transitions & Animations** | Hover Effects, Keyframes, Motion                  |
-| 🌈 5  | **Capstone Project**         | Combine all CSS knowledge into one creative build |
+| Feature | Description |
+|---------|-------------|
+| Structured Learning | Step-by-step chapters from basics to advanced CSS |
+| Hands-On Exercises | Practice sets for each chapter |
+| Responsive Design | Learn media queries and relative units |
+| Animations & Effects | CSS transitions, keyframes, and motion |
+| Project-Based Learning | Apply all concepts in a final project |
 
 ---
 
-## ⚙️ How to Use
+## Learning Path
 
-### 🧩 Clone the Repository
+| Stage | Topic | Key Concepts |
+|-------|-------|--------------|
+| 1     | CSS Basics | Selectors, Colors, Text Styling |
+| 2     | Layouts | Display, Position, Flexbox |
+| 3     | Responsive Design | Media Queries, Relative Units |
+| 4     | Transitions & Animations | Hover Effects, Keyframes, Motion |
+| 5     | Capstone Project | Combine all CSS knowledge into one creative build |
+
+---
+
+## How to Use
+
+### Clone the Repository
 
 ```bash
 git clone https://github.com/RohanRathod777/CSS.git
-```
+````
 
-### 🧭 Navigate & Explore
+### Explore
 
 Open any chapter folder and view the HTML/CSS files in your browser.
 
-### 🧠 Learn by Doing
+### Learn by Doing
 
-Modify values, test different styles, and observe live changes using browser DevTools.
+Modify CSS values, test different styles, and observe live changes using browser DevTools.
 
-### 💡 Practice & Build
+### Practice & Build
 
-Finish the **practice sets** and complete the **project** to cement your CSS understanding.
+Complete the **practice sets** and final project to consolidate your CSS skills.
 
 ---
 
-## 📜 License
+## License
 
 This repository is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
-* 🌐 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) — the ultimate CSS reference.
-* 💡 [W3Schools](https://www.w3schools.com/css/) — beginner-friendly explanations.
-* 💻 The open-source community for inspiring resources and projects.
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) — Ultimate CSS reference
+* [W3Schools CSS](https://www.w3schools.com/css/) — Beginner-friendly tutorials
+* Open-source community for inspiration and shared resources
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ by <a href="https://github.com/RohanRathod777">Rohan Rathod</a></b><br>
-  <i>“Style your world, one line of CSS at a time.”</i>
+  Made with ❤️ by <a href="https://github.com/RohanRathod777">Rohan Rathod</a><br>
+  “Style your world, one line of CSS at a time.”
 </p>
 ```
 
 ---
-
-If you want, I can **also make this README even more compact and visually modern** using **tables, badges, and color-coded sections** to really stand out on GitHub.
-
-Do you want me to do that?
