@@ -1,4 +1,5 @@
-Absolutely! 😄 Let’s make your README **more stylish, modern, and engaging** using **emojis, cards, and color-coded sections** while keeping it fully GitHub Markdown compatible. Here's a refreshed, visually appealing version:
+# 🎨 CSS-By-Rohan ✨
+> Learn, style, and animate the web one line of CSS at a time! 💻🌈
 
 ---
 
